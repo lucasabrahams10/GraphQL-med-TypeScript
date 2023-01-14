@@ -1,0 +1,2 @@
+# GraphQL-med-TypeScript
+Project 
